@@ -1,0 +1,5 @@
+4
+pepperoni
+sausage
+if pepperoni then mushrooms
+if mushrooms or peppers then cheese

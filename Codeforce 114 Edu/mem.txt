@@ -1,0 +1,2 @@
+cat Dinput.txt | python D.py
+[1, 2, 3]

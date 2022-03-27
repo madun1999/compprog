@@ -1,0 +1,17 @@
+8
+2
+aa
+5
+cbabb
+8
+cacabccc
+3
+aba
+4
+abba
+4
+abca
+2
+ab
+7
+abbacca
